@@ -1,0 +1,1110 @@
+CRITICAL - 2022-02-22 19:21:20 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:21:35 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:21:37 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:22:03 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:22:07 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:27:46 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:27:48 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:27:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:27:51 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:21 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:22 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:22 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:22 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:22 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:24 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:24 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:24 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:24 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:24 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:29 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:29 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:29 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:29 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:29 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:29 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:30 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:33:30 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:48 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:51 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:51 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:51 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:51 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:51 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 19:38:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(28): require('C:\\XAMP\\htdocs\\...')
+#4 {main}
+CRITICAL - 2022-02-22 12:44:30 --> Too few arguments to function App\Controllers\Calculadora::index(), 0 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->index()
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 12:44:56 --> Too few arguments to function App\Controllers\Calculadora::index(), 0 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->index()
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 12:45:29 --> Too few arguments to function App\Controllers\Calculadora::index(), 2 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->index('1', '2')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 12:50:59 --> Too few arguments to function App\Controllers\Calculadora::index(), 0 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->index()
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 12:51:03 --> Too few arguments to function App\Controllers\Calculadora::index(), 0 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->index()
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 12:54:25 --> Too few arguments to function App\Controllers\Calculadora::cont(), 0 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont()
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 12:54:29 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:55:10 --> Undefined variable: titulo
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:55:10 --> Undefined variable: titulo
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:55:10 --> Undefined variable: titulo
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:55:10 --> Undefined variable: titulo
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:55:11 --> Undefined variable: titulo
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:55:15 --> Undefined variable: titulo
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:55:15 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:55:16 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:55:16 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:55:16 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:55:16 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:55:17 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:55:17 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:56:32 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:56:32 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:56:33 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:56:33 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:56:33 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:56:33 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:56:33 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:56:33 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:56:47 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:56:47 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:56:48 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:56:48 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:56:48 --> Undefined variable: numero1
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:16 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:16 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:16 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:16 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:17 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:17 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:17 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:17 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:17 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:17 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:17 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:18 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:18 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:18 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:32 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:33 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:33 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:33 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:34 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:34 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:34 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:57:34 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:58:24 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:58:39 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 12:58:40 --> Undefined variable: data
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 12, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 13:00:10 --> Argument 1 passed to CodeIgniter\View\View::include() must be of the type string, array given, called in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php on line 12
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\View\View->include(Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 13:00:11 --> Argument 1 passed to CodeIgniter\View\View::include() must be of the type string, array given, called in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php on line 12
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\View\View->include(Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 13:00:11 --> Argument 1 passed to CodeIgniter\View\View::include() must be of the type string, array given, called in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php on line 12
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\View\View->include(Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 13:00:11 --> Argument 1 passed to CodeIgniter\View\View::include() must be of the type string, array given, called in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php on line 12
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\calculadora_tudo.php(12): CodeIgniter\View\View->include(Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-22 13:00:51 --> Call to undefined method CodeIgniter\View\View::array()
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include()
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('calculadora_tud...', Array, true)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Calculadora.php(13): view('calculadora_tud...', Array)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-22 13:02:11 --> Too few arguments to function App\Controllers\Calculadora::cont(), 1 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 13:02:13 --> Too few arguments to function App\Controllers\Calculadora::cont(), 1 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 13:02:13 --> Too few arguments to function App\Controllers\Calculadora::cont(), 1 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 13:02:13 --> Too few arguments to function App\Controllers\Calculadora::cont(), 1 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 13:02:13 --> Too few arguments to function App\Controllers\Calculadora::cont(), 1 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 13:02:14 --> Too few arguments to function App\Controllers\Calculadora::cont(), 1 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 13:02:16 --> Too few arguments to function App\Controllers\Calculadora::cont(), 2 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1', '2')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 13:02:19 --> Too few arguments to function App\Controllers\Calculadora::cont(), 2 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1', '2 ')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 13:02:45 --> syntax error, unexpected '$numero2' (T_VARIABLE), expecting ')'
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Calculadora/con...')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Calculadora/con...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-22 13:02:46 --> syntax error, unexpected '$numero2' (T_VARIABLE), expecting ')'
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Calculadora/con...')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Calculadora/con...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-22 13:02:46 --> syntax error, unexpected '$numero2' (T_VARIABLE), expecting ')'
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Calculadora/con...')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Calculadora/con...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-22 13:02:46 --> syntax error, unexpected '$numero2' (T_VARIABLE), expecting ')'
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Calculadora/con...')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Calculadora/con...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-22 13:02:51 --> Too few arguments to function App\Controllers\Calculadora::cont(), 2 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1', '2 ')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 13:02:51 --> Too few arguments to function App\Controllers\Calculadora::cont(), 2 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1', '2 ')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 13:02:52 --> Too few arguments to function App\Controllers\Calculadora::cont(), 2 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1', '2 ')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 13:02:52 --> Too few arguments to function App\Controllers\Calculadora::cont(), 2 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1', '2 ')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 13:02:52 --> Too few arguments to function App\Controllers\Calculadora::cont(), 2 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1', '2 ')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-22 13:02:52 --> Too few arguments to function App\Controllers\Calculadora::cont(), 2 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 3 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Calculadora->cont('1', '2 ')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Calculadora))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

@@ -1,0 +1,333 @@
+CRITICAL - 2022-03-02 12:25:11 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:25:15 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:29:09 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:30:30 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:31:26 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:33:19 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:35:03 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:35:03 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:35:03 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:35:03 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:41:23 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:41:50 --> Too few arguments to function App\Controllers\Categorias::editar(), 0 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar()
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-02 12:41:57 --> Too few arguments to function App\Controllers\Categorias::editar(), 0 passed in C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar()
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-02 12:42:01 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:42:05 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('2')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:42:07 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('3')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:42:21 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('3')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:42:25 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:43:23 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:43:35 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('2')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:43:43 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('2')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:44:37 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:47:09 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:47:09 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:47:09 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:47:09 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:47:10 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:47:12 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(49): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:49:08 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(59): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:49:09 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(59): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:49:36 --> Invalid file: categoria_form.php
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('categoria_form....')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categoria_form', Array, true)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(59): view('categoria_form', Array)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 12:55:11 --> Call to undefined method stdClass::set()
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-02 12:56:21 --> Call to undefined method stdClass::set()
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-02 12:58:01 --> Call to undefined method stdClass::update()
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-02 12:58:46 --> Call to undefined method stdClass::update()
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->editar('1')
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-02 13:16:40 --> Could not check compatibility between App\Controllers\Categorias::initController(App\Controllers\RequestInterface $request, App\Controllers\ResponseInterface $response, App\Controllers\LoggerInterface $logger) and App\Controllers\BaseController::initController(CodeIgniter\HTTP\RequestInterface $request, CodeIgniter\HTTP\ResponseInterface $response, Psr\Log\LoggerInterface $logger), because class App\Controllers\LoggerInterface is not available
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Could not check...', 'C:\\XAMP\\htdocs\\...', 7, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Router\Router.php(518): include_once('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Categorias/inde...')
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Categorias/inde...')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 13:16:41 --> Could not check compatibility between App\Controllers\Categorias::initController(App\Controllers\RequestInterface $request, App\Controllers\ResponseInterface $response, App\Controllers\LoggerInterface $logger) and App\Controllers\BaseController::initController(CodeIgniter\HTTP\RequestInterface $request, CodeIgniter\HTTP\ResponseInterface $response, Psr\Log\LoggerInterface $logger), because class App\Controllers\LoggerInterface is not available
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Could not check...', 'C:\\XAMP\\htdocs\\...', 7, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Router\Router.php(518): include_once('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Categorias/inde...')
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Categorias/inde...')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 13:16:41 --> Could not check compatibility between App\Controllers\Categorias::initController(App\Controllers\RequestInterface $request, App\Controllers\ResponseInterface $response, App\Controllers\LoggerInterface $logger) and App\Controllers\BaseController::initController(CodeIgniter\HTTP\RequestInterface $request, CodeIgniter\HTTP\ResponseInterface $response, Psr\Log\LoggerInterface $logger), because class App\Controllers\LoggerInterface is not available
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Could not check...', 'C:\\XAMP\\htdocs\\...', 7, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Router\Router.php(518): include_once('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Categorias/inde...')
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Categorias/inde...')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-02 13:16:42 --> Could not check compatibility between App\Controllers\Categorias::initController(App\Controllers\RequestInterface $request, App\Controllers\ResponseInterface $response, App\Controllers\LoggerInterface $logger) and App\Controllers\BaseController::initController(CodeIgniter\HTTP\RequestInterface $request, CodeIgniter\HTTP\ResponseInterface $response, Psr\Log\LoggerInterface $logger), because class App\Controllers\LoggerInterface is not available
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Could not check...', 'C:\\XAMP\\htdocs\\...', 7, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Router\Router.php(518): include_once('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Categorias/inde...')
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Categorias/inde...')
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

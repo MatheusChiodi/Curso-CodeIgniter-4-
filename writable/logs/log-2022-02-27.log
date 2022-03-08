@@ -1,0 +1,66 @@
+CRITICAL - 2022-02-27 05:06:58 --> Undefined variable: titulo
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\categorias_form.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 7, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categorias_form', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(13): view('categorias_form')
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-27 05:45:42 --> Undefined variable: nomecategoria
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\categorias.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 32, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categorias', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(14): view('categorias', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-27 05:45:46 --> Undefined variable: nomecategoria
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\categorias.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 32, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categorias', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(14): view('categorias', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-27 05:45:51 --> Undefined variable: nomecategoria
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\categorias.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 32, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categorias', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(14): view('categorias', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-27 05:46:15 --> Undefined variable: nomecategoria
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\categorias.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 32, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categorias', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(14): view('categorias', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-27 05:46:30 --> Undefined variable: nomecategoria
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\categorias.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 32, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('categorias', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(14): view('categorias', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

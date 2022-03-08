@@ -1,0 +1,15 @@
+ERROR - 2022-03-01 06:42:46 --> Column 'nomecategoria' cannot be null
+CRITICAL - 2022-03-01 06:42:46 --> Column 'nomecategoria' cannot be null
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `ca...', 0)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ca...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ca...')
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ca...', Array, false)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Categorias.php(26): CodeIgniter\Model->insert()
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Categorias->inserir()
+#9 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Categorias))
+#10 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}

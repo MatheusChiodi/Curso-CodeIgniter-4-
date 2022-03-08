@@ -1,0 +1,45 @@
+CRITICAL - 2022-02-14 04:19:11 --> Too few arguments to function App\Controllers\Produtos::detalhes(), 0 passed in C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->detalhes()
+#1 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#2 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-14 04:19:18 --> Undefined variable: produto
+#0 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\produtos_detalhes.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('produtos_detalh...', Array, true)
+#4 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(17): view('produtos_detalh...', Array)
+#5 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->detalhes('20')
+#6 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-14 04:20:00 --> Too few arguments to function App\Controllers\Produtos::detalhes(), 0 passed in C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->detalhes()
+#1 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#2 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-14 04:20:11 --> Undefined variable: produto
+#0 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\produtos_detalhes.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('produtos_detalh...', Array, true)
+#4 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(17): view('produtos_detalh...', Array)
+#5 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->detalhes('batata')
+#6 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-14 04:20:14 --> Undefined variable: produto
+#0 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\produtos_detalhes.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10, Array)
+#1 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('produtos_detalh...', Array, true)
+#4 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(17): view('produtos_detalh...', Array)
+#5 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->detalhes('batata', 'batata')
+#6 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
