@@ -1,0 +1,151 @@
+ERROR - 2022-03-09 05:47:05 --> Error connecting to the database: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+
+CRITICAL - 2022-03-09 05:47:05 --> Unable to connect to the database.
+Main connection [MySQLi]: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Model.php(145): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(11): CodeIgniter\BaseModel->find()
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-03-09 05:47:18 --> Error connecting to the database: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+
+CRITICAL - 2022-03-09 05:47:18 --> Unable to connect to the database.
+Main connection [MySQLi]: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Model.php(145): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(11): CodeIgniter\BaseModel->find()
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-09 05:47:34 --> Undefined variable: categorias
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\produtos.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 29, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('produtos', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(15): view('produtos', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-09 05:47:36 --> Undefined variable: categorias
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\produtos.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 29, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('produtos', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(15): view('produtos', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-09 05:47:36 --> Undefined variable: categorias
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\produtos.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 29, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('produtos', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(15): view('produtos', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-09 05:47:36 --> Undefined variable: categorias
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\produtos.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 29, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('produtos', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(15): view('produtos', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-09 05:47:36 --> Undefined variable: categorias
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\produtos.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 29, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('produtos', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(15): view('produtos', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-09 05:47:37 --> Undefined variable: categorias
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\produtos.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 29, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('produtos', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(15): view('produtos', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-09 05:47:37 --> Undefined variable: categorias
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\produtos.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 29, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('produtos', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(15): view('produtos', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-09 05:47:37 --> Undefined variable: categorias
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\produtos.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 29, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('produtos', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(15): view('produtos', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-09 05:47:37 --> Undefined variable: categorias
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\produtos.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 29, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('produtos', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(15): view('produtos', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-09 05:49:28 --> Undefined variable: categoria
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\produtos.php(44): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 44, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('produtos', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(15): view('produtos', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->index()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-09 05:49:35 --> Undefined variable: msg
+#0 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Views\produtos_form.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\XAMP\\htdocs\\...', 20, Array)
+#1 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(210): include('C:\\XAMP\\htdocs\\...')
+#2 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\Common.php(1089): CodeIgniter\View\View->render('produtos_form', Array, true)
+#4 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\app\Controllers\Produtos.php(50): view('produtos_form', Array)
+#5 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(825): App\Controllers\Produtos->inserir()
+#6 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Produtos))
+#7 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\XAMP\htdocs\COURSE_XAMP\CodeIgniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

@@ -18,15 +18,25 @@
     </p>
     <p class="w-100 text-center">
         <strong><?php echo $msg; ?></strong>
+        <?php 
+            if($erros != ''){ ?>
+                <ul style="color:red;">
+                    <?php 
+                        foreach($erros as $erro){ ?>
+                            <li><?php echo $erro; ?></li>
+                        <?php }
+                    ?>
+                </ul>
+        <?php  } ?>
     </p>
-    <form method="post" class="text-center w-40 mx-auto mt-2 bg-secondary py-3 rounded">
+    <form method="post" class="text-center w-40 mx-auto mt-2 bg-secondary py-3 needs-validation" novalidate>
         <div class="mb-3 w-50 mx-auto">
             <label class="form-label text-white">Nome do produto: </label>
-            <input type="text" name="nomeproduto" class="form-control" value="<?php echo (isset($produto) ? $produto-> nomeproduto : '' ) ?>"/>
+            <input type="text" name="nomeproduto" class="form-control" required value="<?php echo (isset($produto) ? $produto-> nomeproduto : '' ) ?>"/>
         </div>
         <div class="mb-3 w-50 mx-auto">
           <label class="form-label text-white">Valor: </label>
-          <input type="text" name="valor" class="form-control" value="<?php echo (isset($produto) ? $produto-> valor : '' ) ?>"/>
+          <input type="text" name="valor" class="form-control" required value="<?php echo (isset($produto) ? $produto-> valor : '' ) ?>"/>
         </div>
         <div class="mb-3 w-50 mx-auto">
           <label class="form-label text-white">Categoria: </label>

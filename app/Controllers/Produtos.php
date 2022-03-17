@@ -6,13 +6,21 @@ class Produtos extends BaseController
 {
     public function index()
     {
-        
+        //chama uma view que exibe todas os produtos
+        $categoriaModel = new \App\Models\ProdutoModel();
+        $data['produtos'] = $categoriaModel->find();
+        $data['titulo'] = 'Listando todos os produtos';
+        $data['msg'] = $this->session->getFlashdata('msg');
+
+        echo view('produtos', $data); 
     }
 
     public function inserir()
-    {
+    {   
+        $data['msg'] = '';
         $data['titulo'] = 'Inserir novo produto';
         $data['acao'] = 'inserir';
+        $data['erros'] = '';
            
         $categoriaModel = new \App\Models\CategoriaModel();
         $listaCategorias = $categoriaModel->findAll(); 
@@ -36,8 +44,8 @@ class Produtos extends BaseController
                 $data['msg'] = 'Produto inserido com sucesso';
             }else
             {
-                $data['msg'] = '';
                 $data['msg'] = 'Falha ao inserir produto';
+                $data['erros'] = $produtoModel->errors();
             }
             echo view('produtos_form', $data); 
         }else{
